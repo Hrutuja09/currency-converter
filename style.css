@@ -1,0 +1,76 @@
+body{
+    background-color: #d0f4de;
+    height: 100vh;
+    text-align: center;
+
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#e2eafc;
+    width: 600px;
+    height: 70vh;
+    border-radius: 2rem;
+}
+.inner-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.amt{
+    font-size: 40px;
+    font-weight: bold;
+}
+input{
+    height: 80px;
+    font-size: 30px;
+    width: 200px;
+    border: none;
+    background-color: #afbfc0;
+    border-radius: 5px;
+}
+form{
+    width: 400px;
+    height: 550px;
+    margin-bottom: 30px;
+}
+.inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.from{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.to{
+    font-size: 25px;
+    font-weight: bold;
+}
+i{
+    font-size: 40px;
+}
+.dropdown1{
+    height: 30px;
+    width: 60px;
+}
+.formula{
+    font-size: 20px;
+}
+.button{
+    height: 50px;
+    width: 230px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #afbfc0;
+}
