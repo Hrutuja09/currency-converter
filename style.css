@@ -17,11 +17,14 @@ h1{
     width: 600px;
     height: 70vh;
     border-radius: 2rem;
+    flex-shrink: 1;
 }
 .inner-div{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-grow: 1;
+    flex-shrink: 1;
 }
 .amt{
     font-size: 40px;
