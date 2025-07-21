@@ -82,11 +82,12 @@ i{
 
 /* Added Responsiveness for all screens*/
 @media (max-width: 1200px) {
-  h1 {
-    font-size: 24px;
+
+h1 {
+    font-size: 40px;
 }
 .container{
-    width: 270px;
+    width: 290px;
 }
 input{
     width: 200px;
